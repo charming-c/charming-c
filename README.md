@@ -1,3 +1,8 @@
-<h3 align="center">👋 Hi there! I'm charming </h3>
+## 👋 Hi there! I'm charming
 
-✨ I am an undergraduate student of CCNU, focus on android, java and algorithm.
+✨ An undergraduate student of CCNU.
+
+### Current works
+-  🔭 15-213 CMU course
+-  🌱 kotlin programming language
+-  🤖️ Andorid jetpack components
