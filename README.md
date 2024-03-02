@@ -1,8 +1,8 @@
 ## 👋 Hi there! I'm charming
 
-✨ An undergraduate student of CCNU.
+✨ A master's student at XJTU.
 
 ### Current works
--  🔭 15-213 CMU course
--  🌱 kotlin programming language
--  🤖️ Andorid jetpack components
+-  🔭 MIT 6.S081 course
+-  🌱 Algorithms
+-  🤖️ Andorid System Security
