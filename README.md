@@ -3,6 +3,6 @@
 ✨ A master's student at XJTU.
 
 ### Current works
--  🔭 CS144 course
+-  🔭 CMU15-441 course
 -  🌱 Algorithms
 -  🤖️ Rust && Tokio
